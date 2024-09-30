@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tensaeb2017@gmail.com**
 
-- 📄 Know about my experiences [tinyurl.com/2p336atq](tinyurl.com/2p336atq)
+- 📄 Know about my experiences [Personal Website](https://tnsae.netlify.app/)
 
 - ⚡ Fun fact **I hate to play games.**
 <h3 align="left">Connect with me: 🤝</h3>
