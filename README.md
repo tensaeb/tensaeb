@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React, Python, UI/UX, Graphics Design**
 
-- 📫 How to reach me **tensaeb2017@gmail.com**
+- 📫 How to reach me **tensaebzeleke@gmail.com**
 
-- 📄 Know about my experiences [Personal Website](https://tnsae.netlify.app/)
+- 📄 Know about my experiences [Personal Website](https://tnsae.vercel.app/)
 
 - ⚡ Fun fact **I hate to play games.**
 <h3 align="left">Connect with me: 🤝</h3>
