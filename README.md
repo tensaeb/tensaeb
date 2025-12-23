@@ -81,13 +81,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tensaeb&show_icons=true&theme=gruvbox&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tensaeb&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensaeb&layout=compact&theme=gruvbox" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/tensaeb?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8"/>
+  <img src="https://streak-stats.demolab.com?user=tensaeb&theme=gruvbox&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensaeb&theme=gruvbox"/>
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/tensaeb?template=terminal&languages=1&languages.limit=8"/>
+</p>
+
 
 ---
 
