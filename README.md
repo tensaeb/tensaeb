@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tensae Befekadu</h1>
-<h3 align="center">Full-Stack Software Engineer | Product Builder | AI&ML Enthusiast 🇪🇹</h3>
+<h1 align="center">Hi 👋, I'm Tensae Befekadu Zeleke</h1>
+<h3 align="center">Software Engineer & Team Leader | AI&ML Enthusiast 🇪🇹</h3>
 
 <p align="center">
   Passionate about building scalable digital products, clean user experiences, and intelligent systems.
@@ -23,6 +23,12 @@
 💡 I’m a **Certified Software Engineer from Ethiopia** who enjoys turning ideas into real, scalable products.
 
 I specialize in **full-stack development**, combining strong **backend systems** with intuitive **frontend experiences**.
+
+- [cite_start]👨‍💻 **Software Engineer & Team Leader** 
+- [cite_start]🎓 **MSc Candidate** in Information Systems (2023–2026) focusing on data management and enterprise solutions[cite: 11, 12].
+- [cite_start]🏫 **BSc in Software Engineering** graduate from **Addis Ababa University**[cite: 7, 8].
+- [cite_start]🛠️ **Full-Stack Expert**: Experienced in building scalable web applications, from the **Sek'ela SIMS** platform to **Tsedey Bank's** USSD and mobile designs.
+- [cite_start]🧠 **Interests**: Passionate about data modeling, predictive analysis, and emerging technologies[cite: 32, 33].
 
 ### What I focus on
 - ⚡ Building **scalable web platforms**
