@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tensae Befekadu Zeleke</h1>
-<h3 align="center">Software Engineer & Team Leader | AI&ML Enthusiast 🇪🇹</h3>
+<h3 align="center">Software Engineer & Team Leader | AI & Machine Learning Enthusiast 🇪🇹</h3>
 
 <p align="center">
-  Passionate about building scalable digital products, clean user experiences, and intelligent systems.
+  Passionate about building scalable platforms, intelligent systems, and impactful technology.
 </p>
 
 <p align="center">
@@ -20,40 +20,40 @@
 
 # 🚀 About Me
 
-💡 I’m a **Certified Software Engineer from Ethiopia** who enjoys turning ideas into real, scalable products.
+💡 I’m a **Software Engineer from Ethiopia** passionate about building **scalable systems, intelligent applications, and real-world digital products**.
 
-I specialize in **full-stack development**, combining strong **backend systems** with intuitive **frontend experiences**.
+I specialize in **full-stack development and AI-powered solutions**, combining strong backend architecture with modern technologies to build reliable and intelligent platforms.
 
-- [cite_start]👨‍💻 **Software Engineer & Team Leader** 
-- [cite_start]🎓 **MSc Candidate** in Information Systems (2023–2026) focusing on data management and enterprise solutions[cite: 11, 12].
-- [cite_start]🏫 **BSc in Software Engineering** graduate from **Addis Ababa University**[cite: 7, 8].
-- [cite_start]🛠️ **Full-Stack Expert**: Experienced in building scalable web applications, from the **Sek'ela SIMS** platform to **Tsedey Bank's** USSD and mobile designs.
-- [cite_start]🧠 **Interests**: Passionate about data modeling, predictive analysis, and emerging technologies[cite: 32, 33].
+- 👨‍💻 **Software Engineer & Team Leader**
+- 🎓 **MSc Candidate in Information Systems (2023–2026)**
+- 🎓 **BSc in Software Engineering – Addis Ababa University**
+- 🛠️ Experienced in building **enterprise platforms, APIs, and scalable web applications**
+- 🧠 Strong interest in **Artificial Intelligence, Machine Learning, and data-driven systems**
 
-### What I focus on
-- ⚡ Building **scalable web platforms**
-- 🧠 Designing **clean and intuitive user interfaces**
-- 🔧 Developing **robust backend systems**
-- 🚀 Creating **AI-powered and automation-driven solutions**
+---
 
-### Current Focus
-- Deepening expertise in **Node.js backend architecture**
-- Building **modern SaaS & platform products**
-- Exploring **AI integrations and intelligent automation**
+# 🔬 AI & Machine Learning Work
 
-💬 Ask me about **React, Node.js, System Design, Product Development, and UI/UX**
+I actively explore and build systems using **AI and machine learning technologies**, focusing on practical applications.
 
-⚡ Fun fact: *I don’t play games — I build them (or the platforms behind them).*  
+Some areas I work on include:
+
+- 🤖 **AI-powered trading systems** with technical analysis and predictive models
+- 📊 **Machine learning models for financial prediction**
+- 🧠 **Neural network experimentation and backtesting systems**
+- 📰 **Sentiment analysis and news-based decision models**
+- ⚙️ **Automation systems using AI agents and APIs**
 
 ---
 
 # 🧠 Areas of Expertise
 
-- Full-Stack Web Development
-- API Architecture & Backend Systems
-- Product Development & Startup Engineering
-- UI/UX Design & User Experience
-- Cloud-ready and scalable application design
+- Full-Stack Web Development  
+- Backend Architecture & API Development  
+- Artificial Intelligence & Machine Learning  
+- Data Processing & Predictive Systems  
+- Scalable SaaS and Platform Development  
+- System Design & Product Engineering  
 
 ---
 
@@ -69,7 +69,7 @@ I specialize in **full-stack development**, combining strong **backend systems**
 
 ---
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Technologies
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
@@ -90,17 +90,6 @@ I specialize in **full-stack development**, combining strong **backend systems**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" width="40"/>
-</p>
-
----
-
-### 🎨 UI / UX & Design
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/>
 </p>
 
 ---
@@ -130,9 +119,6 @@ I specialize in **full-stack development**, combining strong **backend systems**
   </a>
   <a href="https://linkedin.com/in/tensaeb" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://dribbble.com/tensaeb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="35"/>
   </a>
 </p>
 
