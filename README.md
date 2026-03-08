@@ -57,6 +57,12 @@ Some areas I work on include:
 
 ---
 
+💬 Ask me about **React, Node.js, System Design, Product Development
+
+⚡ Fun fact: *I don’t play games — I build them (or the platforms behind them).*
+
+---
+
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
